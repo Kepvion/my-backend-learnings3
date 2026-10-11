@@ -1,0 +1,30 @@
+task-
+hame ek route  banana hai . jismein ek page show ho aur waha par ek css use karta hua page dikhe
+
+//express js setup
+//install express✅
+//express js boilerplate code✅
+   -go to npm 
+   --search express
+   ---copy the code 
+
+
+//express js mein ejs setup ✅
+//instal ejs
+     //set view engine
+     app.set("view engine","ejs");
+
+    //create views folder
+    //create ejs files
+
+     //render ejs files inside route
+
+
+//express static files setup ✅
+
+
+app.use(express.static("./public"))
+
+
+//architecture of public folder✅
+
